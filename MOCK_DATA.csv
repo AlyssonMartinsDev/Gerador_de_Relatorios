@@ -1,0 +1,1001 @@
+data,produto,quantidade,preco_unitario,total venda
+2/6/2024,Strawberry Fruit Spread,65,2743,178295
+4/29/2024,Water Bottle,57,1187,67659
+7/25/2023,Caraway Rye Bread,96,17755,1704480
+1/2/2024,Kids' Gardening Kit,14,19703,275842
+5/8/2024,Woven Storage Baskets,32,11191,358112
+9/27/2024,Classic Pumps,80,6807,544560
+1/2/2025,Dog Waste Bag Dispenser,53,6135,325155
+1/22/2023,Leather Crossbody Bag,2,15378,30756
+8/31/2023,Denim Jacket,18,365,6570
+8/4/2023,Kids' Trampoline,47,19478,915466
+2/10/2025,Karaoke Microphone,76,7688,584288
+6/5/2024,Cat Tree with Scratching Posts,59,7800,460200
+11/29/2024,Animal Paw Print Soap Dispenser,14,19814,277396
+8/15/2024,Caramel Apple Taffy,20,19074,381480
+12/26/2023,Spicy Chicken Wings,99,16557,1639143
+10/18/2023,A-Line Skirt,95,19199,1823905
+10/23/2022,Digital Voice Recorder,44,771,33924
+9/16/2023,Magnetic Whiteboard,4,15363,61452
+11/23/2022,Bluetooth Tracker,83,15873,1317459
+12/5/2022,Snap-On Tupperware Set,20,18620,372400
+8/3/2024,Rechargeable Electric Screwdriver,58,810,46980
+7/3/2023,Honey Roasted Chickpeas,55,9516,523380
+1/1/2023,Chocolate Fudge Ice Cream,95,5429,515755
+1/19/2024,Chocolate Dipped Fruit,45,19368,871560
+10/16/2023,Blackberry Jam,80,8171,653680
+7/31/2023,Walnut Halves,55,14712,809160
+11/15/2023,Watercolor Paint Set,80,812,64960
+3/28/2024,Classic Baseball Cap,69,10583,730227
+9/19/2023,Microwave Popcorn Maker,51,784,39984
+11/29/2024,LED Flashlight,34,2525,85850
+2/1/2025,Travel Mug with Leak-Proof Lid,38,13980,531240
+3/16/2024,Sports Bottle,43,10641,457563
+7/20/2023,Tomato Basil Pasta Sauce,16,13411,214576
+7/6/2023,Pet Reflective Vest,44,18952,833888
+9/25/2022,Biodegradable Phone Case,43,327,14061
+1/9/2025,Pet Water Fountain,91,10861,988351
+11/17/2023,Herbed Mushroom Risotto,34,6474,220116
+11/4/2023,Customizable Name Puzzle,59,2863,168917
+1/14/2023,Fried Rice,50,10969,548450
+3/30/2025,Silicone Baking Molds,73,5714,417122
+2/3/2025,Sweet Potato & Kale Hash,83,12618,1047294
+4/24/2023,Car Phone Mount,54,2144,115776
+9/16/2024,Black Bean & Corn Salad,12,14420,173040
+7/6/2023,Motorcycle Phone Mount,85,14463,1229355
+10/13/2024,Cinnamon Sugar Donuts,65,635,41275
+12/9/2024,Suction Cup Hooks,67,12178,815926
+10/6/2022,Smart Fitness Scale,54,2873,155142
+3/22/2025,Ice Cube Tray with Lid,96,11163,1071648
+11/29/2023,Hummus Trio Pack,95,4444,422180
+12/23/2022,Sports Windbreaker,14,14394,201516
+1/5/2025,Garlic Herb Grilled Chicken,6,17692,106152
+2/27/2023,Multi-Layer Food Steamer,75,4142,310650
+12/27/2022,Honey Sesame Cashews,45,3059,137655
+2/17/2025,Chocolate Fudge Brownie Mix,67,15882,1064094
+9/21/2024,Pasta Portion Control Measure,74,13850,1024900
+6/21/2023,Waffle Maker,90,15669,1410210
+2/27/2023,Pressure Washer Accessories Kit,15,15896,238440
+9/9/2022,Eco-Friendly Yoga Blocks,43,170,7310
+3/19/2025,Free-Range Eggs,85,7491,636735
+8/19/2023,Kids' Craft Supplies Set,77,9009,693693
+7/29/2024,Digital Bullet Journal,69,3532,243708
+8/12/2024,Kids' Craft Supplies Set,7,1233,8631
+5/21/2023,Pita Bread,89,11736,1044504
+9/11/2023,Cranberry Citrus Sauce,57,11661,664677
+6/13/2024,Electric Wax Warmer,48,17812,854976
+2/22/2025,Teriyaki Salmon Fillets,87,6153,535311
+8/14/2023,Savory Snack Mix,73,2064,150672
+10/12/2024,Roasted Red Pepper Hummus,94,18124,1703656
+6/26/2024,Eggs (dozen),14,12673,177422
+3/11/2024,Mashed Sweet Potatoes,35,1025,35875
+3/20/2024,Honey Sesame Cashews,48,19484,935232
+8/5/2023,Fleece Lined Leggings,99,18331,1814769
+10/12/2024,Roasted Red Pepper Sauce,29,13218,383322
+5/9/2023,Pet Hair Vacuum Cleaner Attachment,69,1307,90183
+6/7/2024,Pasta (Linguine),8,1003,8024
+12/18/2022,Cheddar & Bacon Potato Skins,64,5533,354112
+9/28/2024,Potting Soil,5,17764,88820
+7/17/2023,Mini Air Hockey Table,100,10251,1025100
+8/21/2023,Personalized Pet ID Tags,40,8320,332800
+9/15/2022,Underwater Camera,64,14365,919360
+8/11/2024,Coconut Milk,91,11422,1039402
+2/5/2025,Chocolate Chip Cookie Dough,56,19008,1064448
+3/23/2023,High-Low Hem Tee,18,7662,137916
+11/9/2024,Dog Training Collar,35,7473,261555
+2/14/2023,Chipotle Black Bean Burger,72,16500,1188000
+3/17/2024,Animal Paw Print Soap Dispenser,84,11383,956172
+2/19/2023,Cacao Nibs,93,1241,115413
+11/6/2023,Habanero Hot Sauce,74,10116,748584
+9/13/2024,Wireless Security System,53,6411,339783
+2/24/2025,Garlic and Herb Rub,10,1661,16610
+4/17/2024,Coconut Cream Pie,79,15141,1196139
+12/3/2024,Organic Sweet Potatoes,30,12674,380220
+1/28/2024,Strawberry Banana Smoothie Pack,33,17359,572847
+1/3/2024,Cocktail Shaker and Mixing Glass Set,40,1197,47880
+12/1/2024,Vegan Mayonnaise,6,2866,17196
+9/19/2024,Lentil Vegetable Stew,97,14765,1432205
+3/24/2023,Garlic Butter Sauce,20,6049,120980
+9/1/2023,Vegetable Samosas,57,7949,453093
+11/8/2024,Potato Wedge Seasoning,5,11134,55670
+12/15/2024,Infrared Thermometer Gun,84,6611,555324
+12/22/2024,Self-Massaging Pillow,34,13916,473144
+1/23/2024,Professional Chef Knife,52,2888,150176
+4/10/2023,Ginger Tea,23,8024,184552
+11/30/2022,Italian Sausage Links,28,6847,191716
+2/21/2023,Sweet and Sour Sauce,11,13004,143044
+7/13/2023,Almond Flour,71,1408,99968
+1/16/2023,Smoked Paprika,8,7583,60664
+10/13/2023,Automatic Pet Feeder,17,14659,249203
+6/29/2023,Coconut Bowls Set,59,6456,380904
+3/15/2025,Cinnamon Raisin Bagels,8,6553,52424
+11/30/2024,Habanero Hot Sauce,19,2725,51775
+10/3/2022,Gardening Fairy Figurines,58,15510,899580
+8/4/2024,Compact Portable Grill,73,3609,263457
+9/6/2024,Grapes (red),1,3617,3617
+7/9/2023,Creamy Garlic Mashed Potatoes,22,7718,169796
+12/1/2023,Chocolate Chip Cliff Bars,85,5720,486200
+11/21/2024,Spicy BBQ Sauce,24,4706,112944
+8/15/2023,Kids' Trampoline,33,18834,621522
+9/14/2024,Kids' Activity Book,63,13181,830403
+4/3/2024,Portable Solar Camp Shower,39,5716,222924
+9/30/2023,Kale and Quinoa Salad,4,6513,26052
+10/2/2024,Thai Basil Fried Rice,29,15367,445643
+1/7/2025,Multi-Layer Food Steamer,65,8596,558740
+3/20/2025,Woven Storage Baskets,33,10036,331188
+8/7/2024,Reversible Swimming Pool Lounger,86,15360,1320960
+11/21/2023,Greek Yogurt Parfait,35,16790,587650
+10/6/2024,Wireless Earbuds,39,13673,533247
+10/30/2023,Customizable Name Plate,6,10669,64014
+10/7/2023,Camping Tent,5,1778,8890
+2/21/2024,Whole Grain Hamburger Buns,7,7074,49518
+8/4/2023,Comfortable Bed Pillow,26,7808,203008
+9/8/2023,Tortilla Chips,24,3485,83640
+11/20/2023,Vegan Chocolate Cake Mix,47,14973,703731
+12/12/2022,Pet Tracking Collar,35,12525,438375
+12/6/2022,Herbal Tea Infuser,39,18971,739869
+8/12/2024,Glass Tea Pot,15,12806,192090
+8/26/2023,Homestyle Beef Stew,90,19682,1771380
+9/13/2024,Nutty Trail Mix,94,15222,1430868
+4/6/2024,Cooking Utensil Set,56,7106,397936
+10/17/2024,Mesh Sports Leggings,27,1093,29511
+8/9/2023,LED Strip Light Kit,39,18964,739596
+6/2/2024,Stainless Steel Grater,14,15716,220024
+6/25/2023,Wireless Mouse,32,4284,137088
+10/27/2023,Pepperoni Pizza Rolls,18,6287,113166
+7/20/2024,Chili Beans (canned),13,19417,252421
+6/12/2024,Organic Quinoa Salad,95,5526,524970
+12/24/2022,Organic Coconut Sugar,88,6274,552112
+2/8/2023,Peanut Butter,10,17486,174860
+6/11/2023,Eco-Friendly Yoga Mat,20,5188,103760
+5/15/2023,Lemon Basil Pasta Sauce,3,782,2346
+1/11/2023,Pumpkin Waffles,4,12817,51268
+10/4/2023,Adjustable Height Standing Desk Converter,65,17707,1150955
+1/25/2023,Fitness Jump Rope,26,17469,454194
+5/29/2023,Cacao Powder,1,10582,10582
+2/5/2023,Gardening Gloves,95,11841,1124895
+2/23/2023,Thai Peanut Dressing,6,13217,79302
+10/7/2024,Pocket Blanket,23,3914,90022
+12/30/2023,Vegan Alfredo Sauce,87,15273,1328751
+1/22/2024,Digital Food Scale,18,9217,165906
+11/27/2024,Chocolate Almond Milk,50,11054,552700
+4/15/2024,Creamy Ranch Dressing,54,197,10638
+5/9/2023,Mashed Sweet Potatoes,48,7797,374256
+2/9/2025,Folding Exercise Bike,27,19459,525393
+2/2/2024,Italian Meatballs,2,2849,5698
+11/19/2022,Leather Biker Jacket,74,14700,1087800
+2/12/2023,V-Neck Sweater,7,10237,71659
+10/18/2023,Thai Peanut Noodles,99,10530,1042470
+9/23/2024,Electric Blanket,75,10094,757050
+5/10/2024,Canvas High-Top Sneakers,51,11593,591243
+9/26/2023,Savory Quinoa Pudding,67,13337,893579
+10/6/2023,3D Night Light,98,7781,762538
+8/2/2024,Eco-Friendly Yoga Mat,99,16979,1680921
+3/2/2023,Fitness Jump Rope,1,3933,3933
+1/1/2025,Honey BBQ Ribs,73,1274,93002
+4/3/2024,Veggie Chips Variety Pack,51,17064,870264
+2/16/2025,Marinara Sauce,21,15600,327600
+2/14/2023,Savory Oats,93,1256,116808
+1/5/2023,Whole Grain Hamburger Buns,24,16524,396576
+10/4/2023,Cucumber Relish,24,11989,287736
+8/29/2023,Watering Can with Nozzle,5,11080,55400
+9/18/2023,Outdoor String Lights,37,3781,139897
+3/19/2023,Nutritional Yeast,82,13352,1094864
+12/6/2024,Wall-Mounted Organizer,85,15513,1318605
+11/11/2024,Sweet Cherry Tomatoes,80,6581,526480
+9/14/2023,Coconut Milk Yogurt,73,19441,1419193
+11/24/2023,Compressed Towel Tablets,42,7599,319158
+7/9/2023,Travel Pillow,18,19098,343764
+11/30/2024,Organic Italian Seasoning,73,5114,373322
+6/4/2023,Italian Sausage Links,51,7663,390813
+12/7/2023,Instant Camera,76,417,31692
+9/8/2024,Wildflower Honey,58,7314,424212
+6/25/2024,Toilet Paper (12 rolls),75,4116,308700
+9/17/2023,Chickpea Pasta,13,1902,24726
+7/22/2023,Fashionable Belt Bag,41,16883,692203
+1/24/2025,Fitness Jump Box,49,15563,762587
+3/19/2023,Electric Hot Pot,28,742,20776
+9/19/2022,Chicken Sausage,25,16018,400450
+2/11/2025,Fitness Tracker with Heart Rate Monitor,89,5198,462622
+10/5/2024,High-Quality Yoga Block,49,19531,957019
+3/8/2023,Cable Knit Beanie,15,1720,25800
+8/25/2024,Lemonade Mix,90,15834,1425060
+8/11/2024,Canned Black Beans,35,19434,680190
+4/9/2023,Pet Safety Harness,50,9553,477650
+7/10/2023,Foldable Yoga Mat,75,3078,230850
+11/2/2024,Chilli Lime Corn on the Cob,18,2773,49914
+2/15/2025,Vegan Protein Powder,53,16429,870737
+1/20/2024,Camping Tent,28,10054,281512
+10/30/2023,Pineapple Coconut Rice Mix,18,19166,344988
+9/4/2022,Belted Trench Coat,3,1054,3162
+9/14/2024,Tennis Racket,13,18128,235664
+1/6/2024,Bamboo Utensil Holder,34,17252,586568
+7/20/2024,Glass Food Containers,71,3672,260712
+10/10/2023,Scent Diffuser,13,14280,185640
+11/13/2024,Frozen Hash Browns,16,128,2048
+5/30/2023,Foldable Electric Scooter,85,12694,1078990
+11/8/2022,Coconut Cream Pie Yogurt,85,9094,772990
+11/10/2024,Recipe Book Stand,61,15436,941596
+4/27/2024,Apricot Jam,64,5460,349440
+10/23/2024,Spicy Tuna Rolls,88,3526,310288
+11/4/2022,Personalized Keychain,53,9444,500532
+10/12/2023,Herbed Chicken Breast,11,10710,117810
+6/18/2024,Pumpkin Spice Creamer,35,19026,665910
+12/29/2022,Water Bottle with Built-in Fruit Infuser,17,6959,118303
+12/6/2023,Herbed Mushroom Risotto,94,17184,1615296
+3/10/2023,Fitness Resistance Bands Kit,45,5054,227430
+6/18/2024,Honey Butter Popcorn,64,7233,462912
+2/12/2025,Teriyaki Chicken Stir-Fry,62,11783,730546
+3/2/2025,Tea Set with Infuser,49,1083,53067
+1/12/2023,Pet Food Storage Container,22,12604,277288
+1/30/2024,Spinach Artichoke Dip,100,6720,672000
+12/16/2022,Sweet Corn,21,8681,182301
+1/25/2024,Pet Grooming Brush,82,1132,92824
+9/14/2022,Portable Camping Shower,28,19775,553700
+4/27/2023,Pesto Pasta Sauce,43,17127,736461
+1/9/2024,Caramel Sauce,95,6120,581400
+8/13/2023,Garden Kneeler and Seat,16,15057,240912
+7/7/2023,Dark Chocolate Tart,52,11344,589888
+9/7/2023,Matcha Green Tea Powder,63,14758,929754
+10/30/2022,Travel Mug,29,4041,117189
+1/3/2023,Blender Bottle,68,15419,1048492
+8/24/2024,Adjustable Kitchen Broom Stand,9,11586,104274
+12/12/2023,Insulated Wine Tote,92,10900,1002800
+3/7/2025,Mini Projector,25,17300,432500
+1/16/2024,Foam Roller for Muscle Recovery,12,14034,168408
+11/19/2022,Camping Lantern,66,6770,446820
+10/19/2023,Margherita Pizza,24,9774,234576
+8/7/2023,Leather Crossbody Bag,23,8590,197570
+3/31/2024,Wild Rice & Quinoa Mix,80,6081,486480
+1/15/2025,Relaxed Fit Henley Shirt,41,269,11029
+8/10/2023,Oven-Baked Chicken Tenders,74,15439,1142486
+2/5/2025,Greek Yogurt,5,9274,46370
+11/10/2023,Carrot and Celery Sticks,97,16959,1645023
+12/30/2024,Comfort Flats,70,18311,1281770
+7/5/2023,Teriyaki Salmon Fillets,11,9130,100430
+3/11/2023,Almond Milk,10,16495,164950
+2/10/2023,Portable Massage Table,83,1742,144586
+1/11/2024,Fettuccine Alfredo Dinner Kit,9,16898,152082
+10/25/2023,Sweet Potato Fries,37,6365,235505
+5/28/2023,Cheesy Broccoli Soup Mix,7,15388,107716
+3/5/2024,Coconut Almond Granola,96,11585,1112160
+6/14/2024,Mesh Laundry Bags Set,2,10909,21818
+8/25/2024,LED Table Lamp,7,13300,93100
+5/3/2024,Mediterranean Olives,10,10554,105540
+12/19/2024,Scented Candles,91,16715,1521065
+6/13/2024,Baked Potato Chips,15,13420,201300
+1/18/2024,Organic Vanilla Bean Ice Cream,67,5547,371649
+2/28/2023,Kids' Gardening Tools Set,58,1734,100572
+1/23/2024,Herbal Tea Infuser,37,14618,540866
+9/8/2024,Zucchini Noodles,17,5756,97852
+12/15/2023,Sporty Leggings,26,4911,127686
+4/27/2023,LED Christmas Tree Lights,52,12677,659204
+3/11/2023,Handmade Leather Journal,96,15581,1495776
+11/25/2023,Frozen Acai Purée,32,10468,334976
+3/26/2024,Organic Baby Carrots,31,16132,500092
+1/5/2023,Sweet BBQ Dipping Sauce,60,15504,930240
+4/10/2023,Compact Refrigerator,26,950,24700
+10/13/2024,Travel Mug with Leak-Proof Lid,38,5068,192584
+5/1/2023,Pet Caress Brush,37,3706,137122
+7/3/2024,DIY Organic Gardening Kit,59,17945,1058755
+8/16/2023,Heart-Shaped Baking Molds,82,8269,678058
+12/24/2024,Carrot Ginger Soup,15,5113,76695
+7/1/2024,Throw Pillow Covers,84,1433,120372
+6/13/2024,Colorful Post-It Notes Set,92,18217,1675964
+4/7/2023,Organic Sweet Potatoes,68,5926,402968
+8/28/2024,Almond Flour,1,16518,16518
+3/9/2024,Honey Roasted Almonds,100,5187,518700
+3/21/2025,Banana Nut Muffins,49,7267,356083
+9/12/2023,Gluten-Free Brownies,58,10898,632084
+1/30/2025,Set of Herb Garden Markers,67,15095,1011365
+10/3/2022,LED Disco Ball Light,58,14666,850628
+6/21/2023,Outdoor Picnic Blanket,20,13781,275620
+9/21/2022,Portable Hammock,14,10789,151046
+5/6/2024,Comfortable Jogger Pants,61,5631,343491
+11/3/2022,Walnut Halves,67,16306,1092502
+11/22/2023,Yoga Mat Carrier,19,12119,230261
+12/17/2023,Sea Salt Tortilla Chips,89,13729,1221881
+3/28/2023,Athletic Jogging Jacket,74,12237,905538
+11/1/2024,Sweet Corn,16,14769,236304
+9/6/2023,Beef Chili,58,1701,98658
+3/29/2023,Gardening Kneeler and Seat,44,9024,397056
+1/2/2024,Spicy Thai Coconut Soup,63,16475,1037925
+2/5/2023,Aged White Cheddar Popcorn,88,13289,1169432
+9/1/2023,Turmeric Ginger Tea,78,4315,336570
+11/26/2023,Folding Table,34,18545,630530
+4/4/2024,Honey BBQ Ribs,4,1991,7964
+12/30/2024,Chocolate Mint Cookies,72,16490,1187280
+4/14/2024,Multi-Function Smartphone Holder,19,18462,350778
+11/23/2023,Silicone Stretch Lids,33,1998,65934
+2/7/2023,Chili Lime Shrimp,59,6021,355239
+11/15/2023,Coconut Curry Lentils,45,691,31095
+4/20/2024,Cocktail Shaker and Mixing Glass Set,45,6675,300375
+8/15/2023,Roasted Vegetable Medley,46,17343,797778
+9/4/2023,Pressure Cooker,17,6072,103224
+11/6/2024,Microwave Popcorn Maker,32,14082,450624
+4/12/2024,Flavored Popcorn Mix,28,1186,33208
+10/12/2023,Chunky Knit Sweater,48,11721,562608
+8/18/2024,Home Karaoke System,17,2621,44557
+2/12/2023,Spicy Beef Taco Mix,100,13690,1369000
+10/22/2023,Dog Waste Bag Dispenser,36,18971,682956
+5/5/2024,Mango Salsa,26,13685,355810
+7/9/2023,Handmade Wooden Utensil Set,13,16866,219258
+4/1/2025,Fitness Resistance Bands Set,33,1022,33726
+5/1/2023,Portable Hand Warmer,67,2916,195372
+11/27/2023,Buffalo Stilton Cheese,71,15656,1111576
+2/26/2023,Pumpkin Spice Granola,18,19097,343746
+3/9/2025,Infrared Thermometer Gun,37,16660,616420
+10/2/2024,Wireless Earbud Silicone Covers,1,8523,8523
+8/12/2024,Infrared Thermometer Gun,10,6110,61100
+3/24/2024,Tuscan Bean Soup,83,18205,1511015
+10/15/2024,Ultraviolet Phone Sanitizer,55,13687,752785
+7/18/2024,Pear and Gorgonzola Salad,20,2419,48380
+9/1/2022,Party Mini Dress,15,1195,17925
+9/29/2024,Apple Cinnamon Oatmeal,79,16818,1328622
+11/17/2022,Savory Oats,36,10275,369900
+3/12/2025,Sushi Rice,90,16898,1520820
+11/19/2024,Wireless Mouse,56,19254,1078224
+3/24/2023,Chic Ankle Strap Heels,32,5705,182560
+8/29/2024,Wall Decals for Kids,66,2178,143748
+2/19/2023,Cabbage,48,999,47952
+10/19/2024,Cooking Utensil Set,19,4727,89813
+10/23/2022,Dark Chocolate Covered Raisins,37,18456,682872
+1/23/2024,Quinoa Salad,45,2418,108810
+1/19/2025,Coconut Milk Ice Cream,36,8302,298872
+2/20/2025,Caribbean Jerk Marinade,38,12287,466906
+3/8/2025,Warm Wool Sweater,73,6954,507642
+9/20/2024,Chili Powder,40,2919,116760
+11/30/2022,Vegetable Korma,43,18194,782342
+12/21/2023,Chocolate Chip Cliff Bars,24,1354,32496
+12/4/2022,Portable Water Filter,60,11574,694440
+12/26/2023,Men's Waterproof Hiking Boots,7,12451,87157
+9/17/2023,LED Disco Ball Light,16,14906,238496
+7/6/2024,Cat Tree,64,11736,751104
+1/23/2025,Cinnamon Rolls,52,14712,765024
+4/10/2023,Vegetable Fried Rice Mix,3,8876,26628
+2/15/2025,Multi-Purpose Marine Rope,34,19650,668100
+11/23/2023,Beef Chili,80,10318,825440
+9/10/2023,Organic Green Tea,59,11958,705522
+4/8/2023,Portable Laptop Table,35,9063,317205
+7/7/2023,Canned Coconut Milk,70,12160,851200
+12/29/2022,Portable Camping Stove,77,11309,870793
+10/14/2024,Peanut Butter Cookies,14,8164,114296
+6/2/2024,Skincare Set,71,16935,1202385
+2/14/2025,Honey,91,3841,349531
+3/15/2025,Stainless Steel BBQ Grill Set,20,4442,88840
+3/14/2024,Crispy Onion Rings,26,329,8554
+5/17/2023,Silicone Baking Mat,12,11432,137184
+11/2/2022,Leather Biker Jacket,100,7532,753200
+9/11/2024,Red Lentils,99,11714,1159686
+3/28/2023,Organic Fruit Salad,44,2827,124388
+3/15/2024,Veggie Lovers Pizza,34,2690,91460
+6/30/2023,Pet Waterer with Filtration,65,14607,949455
+2/12/2024,Hand Mixer,34,7389,251226
+11/10/2022,Mediterranean Flatbread,50,13053,652650
+12/28/2024,Quinoa and Kale Salad Kit,33,12812,422796
+4/29/2023,Mediterranean Couscous,22,16169,355718
+8/24/2024,Berries Medley,11,10847,119317
+10/2/2023,Cork Yoga Mat,56,9824,550144
+2/27/2023,Watercolor Set,100,12177,1217700
+9/28/2024,LED Flashlight with Rechargeable Batteries,2,19173,38346
+8/10/2023,Chiffon Blouse,29,3705,107445
+8/24/2023,Instant Pot,17,4224,71808
+2/18/2025,Coconut Curry Lentils,32,18315,586080
+1/31/2025,Fruit and Nut Bars,79,3135,247665
+3/2/2025,Mediterranean Couscous Salad,93,17950,1669350
+11/9/2023,Yoga Blocks,12,6760,81120
+5/14/2024,Couscous,82,2542,208444
+10/28/2023,Vegan Alfredo Sauce,38,4085,155230
+4/8/2024,Frozen Broccoli,69,2972,205068
+9/13/2022,Peanut Butter Chocolate Chip Bars,97,11283,1094451
+10/2/2022,Inflatable Pool Float,99,6551,648549
+6/17/2023,Smart LED Light Strip,73,6131,447563
+2/7/2023,Savory Snack Mix,97,13364,1296308
+3/3/2024,Digital Alarm Clock,4,7754,31016
+2/5/2025,Kettle Chip Variety Pack,47,17311,813617
+4/20/2024,Laptop Backpack,60,19760,1185600
+11/16/2022,Jump Rope with Counter,60,10688,641280
+1/11/2025,Digital Drawing Tablet,2,16201,32402
+12/26/2024,Kids' Activity Book,15,2782,41730
+11/30/2023,Frozen Cauliflower Rice,43,15917,684431
+3/9/2023,Vanilla Almond Granola,72,14116,1016352
+6/5/2023,Travel Laundry Bag,48,7299,350352
+12/28/2022,Slim Fit Chinos,28,7169,200732
+10/10/2024,Crispy Kale Chips,15,12386,185790
+4/2/2024,Electric Air Pump,58,4684,271672
+7/16/2023,Almond Flour Biscuits,71,14102,1001242
+9/30/2023,LED Disco Ball Light,21,5143,108003
+3/30/2025,Car Vacuum,82,11465,940130
+12/24/2023,Tomato Paste,58,14273,827834
+11/22/2023,Cucumber,76,2660,202160
+3/7/2025,Wireless Charger,50,6673,333650
+10/16/2022,Cinnamon Roll Dough,39,17894,697866
+7/30/2023,Apple Cinnamon Granola,55,3103,170665
+1/3/2025,Cinnamon Roll Protein Bar,81,1453,117693
+6/15/2024,Solar Garden Lights,85,1947,165495
+3/1/2024,Caramel Apple Chips,100,11892,1189200
+6/30/2024,Himalayan Salt Grinder,17,12598,214166
+4/29/2023,Honey Mustard Dip,75,12040,903000
+8/11/2024,Travel Mug with Leak-Proof Lid,16,2671,42736
+1/3/2025,Children's Art Set,64,19490,1247360
+9/23/2022,Spinach and Ricotta Ravioli,1,1034,1034
+8/24/2023,Instant Read Meat Thermometer,58,7927,459766
+9/10/2024,Potting Soil,80,6511,520880
+10/8/2024,Electric Opener for Jars and Bottles,4,4434,17736
+9/7/2022,Electric Meat Grinder,10,9590,95900
+1/14/2025,Wall-Mounted Spice Rack,44,1603,70532
+10/30/2024,Energy Protein Bars,62,1268,78616
+6/5/2023,Wireless Keyboard and Mouse Combo,13,18215,236795
+10/7/2023,Essential Oil Diffuser,97,2623,254431
+9/25/2022,Buffalo Chicken Dip,2,13141,26282
+2/17/2023,Winter Insulated Jacket,29,6067,175943
+8/11/2024,Classic Beef Chili,40,827,33080
+12/17/2022,Collapsible Storage Crates,76,964,73264
+3/26/2025,High-Quality Yoga Block,47,779,36613
+7/23/2024,Fresh Lemons,99,19030,1883970
+9/22/2023,Cinnamon Roll Kit,28,11851,331828
+9/16/2024,Coconut Granola,6,16953,101718
+1/5/2023,Lemon Dill Chicken Skewers,2,1875,3750
+11/1/2024,Chicken Sausage,38,7234,274892
+10/30/2022,Peach Mango Smoothie,72,16352,1177344
+10/8/2023,Ice Cream Maker,55,10493,577115
+1/3/2023,Sunflower Seeds,75,4822,361650
+4/5/2024,Almond Flour Biscuits,50,15565,778250
+10/6/2024,Adjustable Pet Feeder,41,7328,300448
+12/1/2024,LED Disco Ball Light,30,16380,491400
+5/5/2024,Active Racerback Tank,27,16910,456570
+12/27/2024,Snack Container Set,99,2249,222651
+3/13/2025,Mini Air Hockey Table,5,1237,6185
+4/3/2024,Asian Noodle Salad Kit,41,16464,675024
+10/28/2023,Asian Noodle Salad Kit,55,14363,789965
+1/15/2024,Sliced Turkey Breast,68,13801,938468
+11/14/2022,Jasmine Rice,7,7168,50176
+2/8/2024,Coconut Chia Seed Pudding,26,16403,426478
+2/2/2023,Smart Thermostat with Wi-Fi,13,13777,179101
+3/19/2024,Wall Calendar,13,19662,255606
+10/3/2024,Lemon Zest Olive Oil,81,13961,1130841
+12/29/2023,Electric Toothbrush Holder,37,9434,349058
+3/30/2023,Honey BBQ Ribs,8,1939,15512
+10/6/2022,Fitbit Activity Tracker,94,12009,1128846
+8/27/2023,Classic Slim Fit Shirt,58,8015,464870
+6/6/2023,Chicken Sausage,14,7208,100912
+1/27/2025,Puzzle,46,2807,129122
+3/29/2024,Black Bean Soup,89,2036,181204
+10/2/2023,Yoga Mat Carrier,89,10780,959420
+9/4/2022,Sweet and Sour Sauce,9,1695,15255
+3/12/2024,Car Phone Mount,51,10020,511020
+6/25/2024,Smashed Avocado with Lime,14,18682,261548
+9/6/2023,Lentil Vegetable Stew,14,19533,273462
+10/24/2023,Walnut Halves,94,17696,1663424
+9/24/2023,Woven Storage Baskets,89,7222,642758
+5/3/2023,Pet Carrier Backpack,52,8891,462332
+11/25/2023,Vegetarian Pizza,46,1427,65642
+10/25/2024,Ceramic Cookware Set,34,12196,414664
+2/28/2025,Digital Photo Frame,52,15908,827216
+4/21/2023,Roasted Red Pepper Dip,66,18915,1248390
+6/3/2024,Multi-Port USB Hub,98,19785,1938930
+11/25/2023,Vegetable Medley,17,18506,314602
+3/18/2025,Tandoori Chicken Marinade,43,5257,226051
+8/29/2024,Gluten-Free Bread,86,19420,1670120
+6/25/2023,Plant-Based Cookbook,89,13796,1227844
+10/22/2023,Sweet Potato Fries,79,325,25675
+10/25/2022,Yoga Blocks,22,10983,241626
+6/15/2024,Stuffed Bell Peppers,94,14624,1374656
+5/4/2023,Herbal Tea Sampler Box,27,14466,390582
+2/19/2025,Organic Whole Wheat Flour,15,14076,211140
+9/8/2023,Frozen Salmon Filets,6,14401,86406
+5/23/2024,Spicy BBQ Sauce,63,407,25641
+9/22/2024,Portable Solar Phone Charger,47,19944,937368
+1/24/2023,Herb Drying Rack,70,3557,248990
+6/29/2023,Banana Peanut Butter Smoothie,15,7787,116805
+3/25/2023,Honey Mustard Chicken Breasts,24,16595,398280
+4/20/2023,Pasta Salad Kit,42,14890,625380
+5/2/2023,Sweet Chili Sauce,13,8057,104741
+5/3/2023,Self-Stirring Mug,65,11860,770900
+10/1/2023,Adjustable Pet Feeder,65,15591,1013415
+12/26/2024,Beef Enchilada Casserole,79,10905,861495
+10/3/2022,Shower Curtain Hooks,49,16129,790321
+2/2/2025,Kids' Gardening Tools Set,64,2564,164096
+5/15/2024,Insulated Wine Tote,11,13004,143044
+12/2/2024,Teriyaki Chicken Bowl,60,6577,394620
+2/6/2025,Children's Gardening Set,49,14303,700847
+12/15/2024,Yoga Wheel,57,15420,878940
+5/8/2023,Car Windshield Sun Shade,18,12405,223290
+6/29/2023,Yoga Mat Carrier,6,6687,40122
+4/13/2024,Slingback Sandals,68,14635,995180
+7/14/2023,Camping Lantern,86,8983,772538
+1/11/2024,Classic White T-Shirt,42,12812,538104
+3/31/2023,Chickpea Pancakes,68,7429,505172
+7/14/2024,Luxury Bath Robe,75,1031,77325
+5/25/2023,Andouille Sausage,4,12032,48128
+9/2/2024,High-Low Hem Tee,77,10492,807884
+11/5/2023,Automatic Pet Feeder,34,8515,289510
+12/15/2023,Traditional Hummus,7,14145,99015
+9/6/2022,Pet Travel Backpack Carrier,78,11309,882102
+2/15/2025,Miso Soup Starter,48,7884,378432
+8/7/2023,Basic V-Neck T-Shirt,67,6943,465181
+7/19/2024,Smoked Gouda Cheese,11,7447,81917
+5/30/2024,Chocolate Mint Thins,53,2680,142040
+7/16/2023,Fitness Resistance Bands Kit,24,15789,378936
+7/18/2024,Almond Butter Cups,74,7334,542716
+2/9/2024,Blender Bottle,17,12485,212245
+2/20/2023,Puff Pastry,86,3970,341420
+5/12/2024,Portable Charcoal Grill,11,5741,63151
+6/14/2023,Portable Solar Phone Charger,52,8155,424060
+11/11/2022,Adjustable Standing Desk,87,11439,995193
+1/30/2025,Snap-On Tupperware Set,39,16137,629343
+4/29/2023,Bike Helmet,96,13317,1278432
+12/24/2023,Cinnamon Sugar Tortilla Chips,17,1530,26010
+7/24/2024,Window Blinds,71,12136,861656
+2/12/2023,Smart Thermostat,71,11606,824026
+3/18/2023,Classic Slim Fit Shirt,24,16446,394704
+12/17/2024,Over-the-Door Shoe Organizer,15,8395,125925
+9/10/2022,Silicone Baking Mats,70,194,13580
+12/28/2022,Peach Mango Smoothie,21,10535,221235
+12/19/2022,Leek and Potato Soup,96,110,10560
+5/2/2024,Deluxe First Aid Kit,97,11866,1151002
+3/7/2023,Mint Chocolate Chip Ice Cream,98,9930,973140
+10/17/2023,Lockable Bicycle Chain,30,11379,341370
+10/6/2024,Cranberry Lime Sparkling Water,70,16764,1173480
+12/19/2024,Chipotle Sauce,70,17755,1242850
+2/18/2025,Electric Razor,36,13456,484416
+2/12/2025,Gardening Tool Belt,88,7497,659736
+8/6/2023,Almond Butter Crunch Bar,99,1739,172161
+2/5/2025,Hand Mixer,23,19026,437598
+12/16/2023,Breathable Face Mask Set,29,12708,368532
+2/3/2025,Kale Salad Kit,48,19313,927024
+3/4/2023,Microfiber Cleaning Cloth Set,35,14458,506030
+5/17/2024,Herbal Tea Infuser,67,7425,497475
+11/18/2023,Crispy Kale Chips,61,17810,1086410
+5/24/2023,Tandoori Chicken Skewers,80,16953,1356240
+5/29/2024,Sesame Seeds,68,4945,336260
+1/17/2025,Peanut Butter Chocolate Clusters,35,1553,54355
+11/19/2023,Hibiscus Tea Bags,61,6594,402234
+8/4/2024,Self-Cleaning Cat Litter Box,6,4886,29316
+8/13/2024,Frozen Edamame,26,11978,311428
+8/20/2023,Coconut Chips,80,2908,232640
+2/9/2025,Crafting Kit,59,19469,1148671
+2/12/2023,Eco-Friendly Disposable Plates,22,5401,118822
+1/10/2023,LED Strip Light Kit,68,400,27200
+1/13/2023,Honey Mustard Dip,98,16313,1598674
+3/18/2023,Samoas Cookie Mix,39,2206,86034
+10/13/2023,Indoor Grill,85,11076,941460
+11/13/2023,Cacao Nibs,49,18935,927815
+1/7/2023,Digital Wireless Camera,25,2446,61150
+4/6/2024,Chili Lime Shrimp,34,6305,214370
+8/22/2024,Spinach Artichoke Dip,3,19591,58773
+1/10/2025,Multifunctional Baby Bottle Warmer,36,16680,600480
+1/20/2025,Fruit Medley Juice,54,19906,1074924
+1/9/2024,Fitness Tracker,75,7756,581700
+2/22/2025,Coconut Rice,42,13842,581364
+11/26/2024,Wooden Puzzle Game,35,1649,57715
+6/25/2023,Pizza Stone,18,18699,336582
+10/25/2024,Car Trash Can,83,6086,505138
+12/10/2022,Artisan Cornbread Mix,11,6538,71918
+10/10/2024,Ground Turkey,100,13542,1354200
+4/4/2023,Chewy Granola Bars,93,8901,827793
+12/18/2022,Coconut Macaroons,60,13617,817020
+4/24/2024,Peach Halves (canned),67,1592,106664
+4/28/2024,Adjustable Window Blind,93,12244,1138692
+11/8/2023,Nut Butter Cups,53,17946,951138
+10/10/2022,Rustic Italian Breads,62,3763,233306
+11/4/2024,Coffee Making Kit,67,3190,213730
+11/25/2023,Portable Speakers,68,5435,369580
+10/27/2023,Sporty Cap,34,916,31144
+10/4/2023,Bamboo Toothbrush,44,5559,244596
+8/16/2023,Organic Spinach,89,6881,612409
+2/9/2023,LED Christmas Lights,42,5516,231672
+11/28/2024,Ergonomic Mouse Pad with Wrist Support,39,5790,225810
+1/6/2025,Ramen Noodles,9,4983,44847
+4/20/2023,Smart Wi-Fi Camera,67,15801,1058667
+12/18/2022,Fitness Balance Ball,100,18531,1853100
+3/2/2023,Electric Fondue Pot,76,13319,1012244
+8/17/2023,Slim Fit Chinos,77,16931,1303687
+4/3/2024,Electric Skillet,5,3556,17780
+1/22/2023,Gardening Gloves,17,15025,255425
+6/2/2023,Sriracha Honey Glaze,93,14501,1348593
+4/12/2023,Solar Garden Lights,17,17595,299115
+5/6/2024,Mint Chocolate Chip Ice Cream,84,10345,868980
+7/23/2023,Roasted Red Pepper Dip,63,5830,367290
+3/3/2023,Silicone Baking Molds,58,8459,490622
+9/30/2023,Apple Cinnamon Oatmeal,84,2460,206640
+11/16/2022,Tea Infuser Bottle,45,19600,882000
+11/18/2024,Stainless Steel Straws,55,11963,657965
+2/16/2025,Electric Kettle,99,755,74745
+1/21/2025,Dried Fruit Medley,35,17987,629545
+10/20/2023,Cinnamon Sugar Tortilla Chips,35,10646,372610
+3/10/2025,Travel Jewelry Case,91,2841,258531
+4/26/2024,Bamboo Toothbrush Holder,74,18874,1396676
+10/23/2023,Decorative Throw Pillows,64,12397,793408
+6/28/2024,Aeropress Coffee Maker,52,5831,303212
+9/22/2024,Baby Monitor,68,18561,1262148
+5/26/2024,Asian Noodle Salad Kit,85,5755,489175
+4/16/2024,Honeycrisp Apple Chips,99,19432,1923768
+5/2/2024,Chocolate Mint Protein Shake,33,11347,374451
+7/8/2024,Coconut Almond Granola,59,11190,660210
+5/14/2023,Pet Safety Belt for Car,48,7692,369216
+12/9/2022,Portable Solar Path Lights,31,9770,302870
+7/11/2023,Chili Garlic Sauce,4,9632,38528
+5/19/2023,Fitness Mat,63,1760,110880
+11/22/2024,Spice Rack,82,4242,347844
+11/5/2024,Peanut Butter Chocolate Chip Bars,53,11868,629004
+4/14/2023,Pepper Jack Cheese Sticks,21,4056,85176
+12/2/2023,Home Brewing Starter Kit,4,12104,48416
+4/28/2023,Cotton Tote Bag Set,35,2456,85960
+11/30/2022,Lemon Garlic Marinade,13,10305,133965
+12/4/2023,Suede Ankle Booties,45,17460,785700
+2/26/2025,Peach Salsa,79,16917,1336443
+12/5/2023,Classic Slim Fit Shirt,1,6000,6000
+10/4/2024,Cacao Nibs,40,17842,713680
+7/8/2023,Dark Chocolate Almond Butter Cups,50,6435,321750
+7/1/2024,Pet Safety Harness,5,12539,62695
+2/11/2023,Magnet Travel Fridge Magnets,70,4863,340410
+11/18/2024,Dish Rack,96,5838,560448
+4/30/2023,Telescope,30,18095,542850
+9/8/2024,Homestyle Beef Stew,87,15987,1390869
+11/9/2024,Granola Bars,62,10306,638972
+9/7/2024,Electric Griddle,18,5689,102402
+2/18/2025,Sliced Ham,99,16322,1615878
+6/30/2024,Pet Hair Removal Brush,77,13816,1063832
+12/17/2023,Pet Grooming Kit,54,322,17388
+7/28/2024,Adjustable Dumbbells,94,3839,360866
+4/27/2024,Repair Tool Set for Home Improvement,62,7366,456692
+9/30/2022,Vegan Mac & Cheese,6,4049,24294
+12/14/2024,Puffer Winter Coat,7,7929,55503
+5/16/2023,Organic Quinoa,67,2929,196243
+1/29/2023,Black Bean Salsa,34,9832,334288
+7/12/2023,Spice Rack,98,19614,1922172
+5/2/2024,Belted Trench Coat,20,4653,93060
+11/27/2023,Mini Hand Gesture Drone,21,2440,51240
+7/25/2024,Tandoori Chicken Marinade,55,3121,171655
+7/10/2024,Chili Lime Shrimp,30,2818,84540
+12/6/2024,Chocolate Chip Energy Balls,87,2837,246819
+7/31/2024,Organic Tomato Soup,3,10961,32883
+11/12/2024,Dark Chocolate Covered Raisins,79,10906,861574
+8/31/2023,Classic Leather Wallet,93,17318,1610574
+4/2/2024,Classic Cheeseburger Mix,44,11404,501776
+11/4/2024,Maple Bacon Potato Chips,1,10658,10658
+11/28/2024,Digital Thermostat,56,310,17360
+7/9/2023,Ceramic Cookware Set,2,4668,9336
+1/8/2023,Watercolor Brush Pens,20,1618,32360
+8/10/2023,Fresh Basil,69,6484,447396
+11/21/2024,Golf Putting Green,14,13366,187124
+12/12/2023,Comfy Slippers,98,18305,1793890
+9/20/2024,Smartphone Photography Tripod,83,4930,409190
+3/19/2024,Raisin Cinnamon Granola,50,5295,264750
+3/11/2024,Customizable Name Plate,62,11560,716720
+11/15/2023,Pecan Nuts,14,13271,185794
+9/6/2023,Miso Dressing,56,13080,732480
+9/1/2024,Portable Massage Gun,100,3098,309800
+10/10/2024,Whole Grain Hamburger Buns,12,16885,202620
+5/9/2023,Travel Pillow with Memory Foam,39,2430,94770
+5/12/2024,Jump Rope with Counter,8,15198,121584
+3/9/2024,Wi-Fi Enabled Smart Light Switch,1,17431,17431
+3/5/2025,Pet Travel Bed,75,16711,1253325
+1/2/2025,Oats,53,3720,197160
+4/12/2024,Vegetarian Stuffed Peppers,29,8871,257259
+12/27/2023,Wireless Charging Pad,29,16728,485112
+10/23/2023,Oven Mitts with Pocket,11,19082,209902
+12/10/2024,Almond Joy Snack Bars,76,12971,985796
+9/21/2023,First Aid Kit,64,9520,609280
+6/11/2023,Cat Scratching Post with Toys,96,1475,141600
+6/4/2023,Cold Brew Coffee Maker,42,5136,215712
+8/1/2023,BBQ Sauce,25,12543,313575
+3/8/2024,Coconut Oil Spray,74,18696,1383504
+8/3/2024,Oven-Baked Chicken Tenders,27,900,24300
+1/2/2023,Magnetic Phone Car Mount,57,7430,423510
+8/1/2024,Dried Cranberries,51,16218,827118
+1/2/2024,Plant-Based Cookbook,18,15224,274032
+5/30/2023,Smashed Avocado with Lime,3,7998,23994
+3/15/2025,Caramelized Onion Dip,72,15656,1127232
+7/5/2023,Peach Mango Smoothie,70,13500,945000
+1/15/2024,Nutty Trail Mix,18,12007,216126
+10/21/2024,Sliced Cheese,42,12747,535374
+10/25/2024,Honey Nut Cheerios,82,8359,685438
+9/8/2024,Vegetable Samosas,84,11905,1000020
+9/18/2024,LED Flashlight with Rechargeable Batteries,67,1349,90383
+7/9/2024,Canvas Wall Art,48,8437,404976
+1/17/2024,Two-Tier Fruit Basket,47,15380,722860
+6/7/2024,Mixed Nuts,37,2547,94239
+2/18/2023,Telescope,44,17251,759044
+5/9/2023,Whole Grain Mustard,42,4445,186690
+6/8/2023,Folding Table,65,3988,259220
+1/12/2025,Magnetic Spice Containers,15,4778,71670
+9/18/2024,Bamboo Memory Foam Pillow,44,15357,675708
+12/19/2023,Oversized Denim Shirt,68,11569,786692
+4/17/2023,Digital Voice Recorder,99,17251,1707849
+4/16/2023,Wireless Keyboard and Mouse Combo,47,9486,445842
+9/21/2023,LED Strip Light Kit,68,19303,1312604
+11/8/2024,Coconut Lime Rice,80,13968,1117440
+6/3/2023,Smart WiFi Plug,8,12984,103872
+3/7/2025,Oversized Denim Shirt,91,18600,1692600
+1/3/2024,Backpacking Tent,39,5370,209430
+7/10/2023,Portable Refrigerator Freezer,60,18967,1138020
+11/9/2023,French Bread,52,4521,235092
+6/1/2024,Ergonomic Mouse Pad with Wrist Support,14,8559,119826
+7/17/2023,Electric Food Slicer,14,16322,228508
+4/5/2023,Organic Black Beans,12,16118,193416
+10/16/2022,Kale Salad with Lemon Dressing,84,16093,1351812
+11/12/2024,Luxury Memory Foam Mattress Topper,9,2285,20565
+11/27/2023,Electric Nail File Kit,42,5135,215670
+7/20/2024,Brussels Sprouts,29,14548,421892
+1/11/2024,Coconut Bowls Set,35,12025,420875
+5/30/2024,Bamboo Cutting Board,34,3746,127364
+5/19/2024,Creamy Ranch Dressing,88,14205,1250040
+11/21/2022,Mini Indoor Herb Garden Kit,64,2018,129152
+7/11/2023,Raspberry Tart,66,10879,718014
+6/27/2023,Cotton Sweatpants,36,8396,302256
+8/15/2024,Chickpeas,20,17763,355260
+6/4/2024,Baking Soda,98,18401,1803298
+9/9/2023,Beef Jerky,100,2487,248700
+11/11/2023,Pet Training Pads,41,16165,662765
+2/10/2024,Herbed Mushroom Risotto,52,3791,197132
+3/13/2024,Caribbean Jerk Marinade,44,2625,115500
+1/19/2023,Two-Tone Windbreaker,86,9598,825428
+12/21/2024,Wireless Security System,52,1859,96668
+8/24/2023,Coconut Rice,100,14920,1492000
+2/25/2025,Savory Quinoa Pudding,35,9416,329560
+7/10/2023,Adjustable Height Standing Desk Converter,11,18606,204666
+9/14/2023,Truffle Parmesan Fries,86,3095,266170
+12/24/2022,Mushrooms,41,18871,773711
+11/1/2023,Dual Function Electric Skillet,16,5694,91104
+10/10/2023,Pet Nail Clipper,32,13252,424064
+5/2/2024,Sliced Cheese,66,6153,406098
+7/6/2023,Electric Blanket,18,7737,139266
+5/20/2024,Mini Air Hockey Table,81,260,21060
+12/3/2023,Lightweight Workout Tank,33,2536,83688
+9/28/2023,Fashionable Fanny Pack,79,11591,915689
+12/19/2023,Baby Safety Corner Guards,35,1866,65310
+6/11/2024,Bamboo Bathtub Caddy,9,8335,75015
+2/6/2023,Rice Pilaf Mix,77,12458,959266
+8/14/2024,Cordless Water Flosser,58,10733,622514
+9/27/2022,Travel Document Organizer,55,884,48620
+1/29/2023,Infrared Space Heater,28,11265,315420
+12/26/2023,Chia Seeds,94,4392,412848
+9/6/2024,Linen Trousers,58,10309,597922
+2/28/2024,Honey Garlic Chicken,80,4908,392640
+10/6/2022,Vanilla Almond Granola,21,7092,148932
+7/5/2023,Nutty Trail Mix,77,4224,325248
+2/29/2024,Ranch Dressing,6,10877,65262
+8/31/2023,Kids' STEM Robotics Kit,80,19147,1531760
+10/19/2022,Whisk Set,51,11260,574260
+3/11/2025,Organic Brown Sugar,92,10591,974372
+1/20/2023,Computer Monitor Stand,40,8452,338080
+6/28/2023,Chicken Breasts,4,11980,47920
+5/5/2023,Desk Organizer Set,16,8660,138560
+7/25/2023,Foot Massager,91,628,57148
+12/24/2024,Mediterranean Couscous,10,19627,196270
+7/22/2024,Organic Almond Flour,32,19791,633312
+1/21/2025,Smoked Paprika,63,4903,308889
+10/30/2024,Golf Putting Green,74,3098,229252
+6/22/2023,Natural Soy Candles,10,17132,171320
+4/27/2024,Couscous Mix,13,16292,211796
+11/9/2023,Suction Cup Hooks,54,2502,135108
+12/30/2023,Herb Seasoned Couscous,86,18666,1605276
+1/23/2025,Organic Baby Carrots,59,6851,404209
+8/29/2024,Hot Salsa,96,8079,775584
+10/13/2024,Vegetable Stir Fry Mix,64,11031,705984
+1/20/2024,Asian Salad Mix,15,15544,233160
+12/14/2023,Collapsible Camping Cup,74,1755,129870
+6/26/2023,Kettle Corn Popcorn,81,5395,436995
+3/5/2025,Cinnamon Spiced Almonds,94,11041,1037854
+6/2/2023,Portable Air Purifier,41,17102,701182
+12/25/2023,Classic Pesto Sauce,5,290,1450
+12/17/2024,Insulated Wine Tote,15,16820,252300
+2/6/2025,Magnetic Phone Case,4,5233,20932
+12/21/2024,Frozen Hash Browns,29,8513,246877
+11/8/2022,LED Desk Light,34,11249,382466
+5/9/2024,Couscous Mix,59,5452,321668
+7/21/2024,Chocolate Mint Cookies,52,14805,769860
+12/23/2023,Heavy-Duty Utility Tote,64,5371,343744
+5/11/2023,Sushi Rice,96,19206,1843776
+7/23/2024,Kids' Activity Book,24,13333,319992
+8/18/2024,Wire Shelving Unit,68,14729,1001572
+12/1/2022,Elderberry Syrup Kit,19,11652,221388
+11/9/2023,Collapsible Storage Crates,45,8069,363105
+12/18/2023,Heart-Shaped Baking Molds,52,6869,357188
+7/30/2023,Window Bird Feeder,22,2945,64790
+12/17/2022,USB-C Hub,47,18695,878665
+3/3/2024,Reusable Food Storage Bags,26,17598,457548
+5/17/2023,Plant Pot Drip Trays,86,13605,1170030
+8/30/2024,Adjustable Pedicure Footrest,49,19556,958244
+11/5/2024,Cucumber,29,16236,470844
+9/13/2024,Smartphone Projector,74,13639,1009286
+3/18/2024,Blue Denim Jeans,89,7524,669636
+5/15/2023,Two-Tone Windbreaker,73,6660,486180
+3/31/2025,Comfy Slippers,7,11451,80157
+2/11/2024,Oven Thermometer,43,4677,201111
+12/27/2024,Bike Repair Tool Kit,74,18367,1359158
+5/3/2024,Garden Hose,74,15575,1152550
+10/27/2024,Pumpkin Spice Granola,66,2199,145134
+5/16/2023,Frozen Salmon Filets,78,15629,1219062
+11/5/2024,Coloring Books for Adults,14,17103,239442
+1/31/2024,Buffalo Style Cauliflower Bites,6,631,3786
+4/19/2023,Fitness Smartwatch,52,16042,834184
+9/11/2022,Bird Feeder,92,7293,670956
+10/3/2024,Pear and Gorgonzola Salad,61,11353,692533
+9/13/2024,Casual Sneakers,79,2167,171193
+11/30/2024,Saffron Rice Mix,4,17213,68852
+4/28/2024,Fruit Medley Juice,38,7415,281770
+9/19/2024,Stuffed Bell Peppers,45,18504,832680
+4/15/2023,Smartphone Photography Ring Light,47,4056,190632
+9/3/2023,Pleated Midi Dress,94,7529,707726
+11/16/2022,Garlic Herb Grilled Chicken,38,2609,99142
+1/21/2025,Rechargeable Battery Organizer,84,12508,1050672
+11/12/2023,Noise Reduction Headphones,20,13585,271700
+10/27/2023,Frozen Cauliflower Rice,33,3941,130053
+7/23/2023,Stainless Steel Cutlery Set,60,19894,1193640
+3/24/2025,Puzzle Game Set,39,13179,513981
+9/15/2023,Frozen Spinach,49,820,40180
+4/12/2023,Beef Chili,47,6187,290789
+5/4/2024,Laptop Stand,97,16433,1594001
+6/28/2024,Portable Folding Picnic Table,17,5320,90440
+6/18/2023,Tuscan Bean Soup,91,2357,214487
+12/30/2022,Natural Peanut Butter,34,1583,53822
+12/14/2024,Vegetable Broth,80,7586,606880
+3/25/2025,Tandoori Chicken Skewers,96,3309,317664
+6/26/2024,Strawberry Rhubarb Jam,8,19168,153344
+9/29/2024,Portable Leaf Blower,39,936,36504
+12/5/2024,Coloring Books for Adults,13,8666,112658
+2/1/2023,Garlic Parmesan Roasted Nuts,35,5117,179095
+4/24/2023,Smart Air Purifier,37,19174,709438
+11/15/2022,Comfortable Bed Pillow,37,18836,696932
+12/13/2023,Crispy Onion Rings,12,18493,221916
+12/22/2022,Arcade Game Machine,97,8952,868344
+2/4/2024,Sweet Potatoes,30,12948,388440
+12/29/2022,Memory Card,2,12772,25544
+3/27/2023,Denim Jacket,96,10691,1026336
+1/15/2024,Electric Can Opener,85,2033,172805
+1/31/2024,Pet Carrier,86,18463,1587818
+8/29/2024,Outdoor Camping Hammock,73,14949,1091277
+4/7/2024,Lemon Garlic Marinade,81,19332,1565892
+3/31/2025,Cajun Seasoning,58,5211,302238
+11/27/2023,Gluten-Free Bread,3,16992,50976
+1/8/2024,Organic Whole Wheat Flour,32,10224,327168
+2/4/2024,Chocolate Mint Thins,11,13552,149072
+9/19/2023,Artisan Pickles,41,13320,546120
+3/24/2025,Terry Cloth Robe,4,5360,21440
+8/22/2023,Heated Throw Blanket,77,7839,603603
+12/12/2022,Fresh Lemons,68,16486,1121048
+11/7/2023,Classic Pumps,29,16490,478210
+12/23/2023,Golf Putting Green,73,4801,350473
+12/17/2023,Electric Ice Cream Maker,43,2662,114466
+11/15/2024,Smoked Gouda Cheese,65,16156,1050140
+3/12/2025,Solar Garden Lights,22,13863,304986
+9/5/2023,Spinach and Cheese Stuffed Shells,42,14371,603582
+7/14/2023,Pet Grooming Brush,59,9387,553833
+10/22/2023,Pork Chops,41,6373,261293
+12/13/2024,Silicone Baking Mats,56,12406,694736
+4/6/2024,Travel Pillow,98,1155,113190
+3/4/2025,Coconut Lime Rice,39,1858,72462
+1/27/2025,Frozen Berry Blend,28,17386,486808
+5/7/2023,Baked Mac and Cheese,22,1266,27852
+11/21/2022,Magic Color-Changing Mug,100,10651,1065100
+10/5/2022,Portable SSD,86,6143,528298
+11/25/2024,Miso Dressing,11,15380,169180
+11/20/2024,Vegetable Stir-Fry Kit,12,10855,130260
+5/28/2023,Kale Caesar Salad Kit,4,16926,67704
+2/21/2024,Crispy Tofu Bites,16,722,11552
+10/7/2024,Elderberry Syrup Kit,75,11237,842775
+10/27/2023,Asian Stir-Fry Kit,47,701,32947
+8/25/2024,Rainbow Veggie Chips,43,7286,313298
+4/8/2024,Pasta Primavera Kit,77,922,70994
+9/18/2023,Herbal Tea Set,10,7124,71240
+11/20/2023,Herb Garlic Butter,79,12219,965301
+9/25/2024,Skincare Set,50,12104,605200
+10/20/2024,Travel Document Organizer,5,6252,31260
+2/21/2024,Cheddar Cheese Crackers,29,3717,107793
+7/25/2024,Organic Vanilla Bean Ice Cream,68,1650,112200
+3/19/2025,Peach Halves (canned),64,10225,654400
+10/17/2024,Italian Meatballs,38,4033,153254
+2/12/2024,Honey BBQ Riblets,85,10555,897175
+10/15/2022,Portable Ice Maker,90,3773,339570
+12/17/2023,Stainless Steel Travel Mug,44,6827,300388
+3/8/2025,Set of Silicone Baking Molds,9,13528,121752
+5/10/2023,Electric Wax Warmer,89,9125,812125
+6/21/2024,Organic Tomato Ketchup,99,9963,986337
+12/22/2022,Trackpad for Laptop,21,19813,416073
+10/16/2024,Vegetable Broth,62,7463,462706
+2/25/2024,Wall-Mounted Bookshelf,95,3909,371355
+6/3/2024,Car Vacuum Cleaner,35,3687,129045
+11/9/2022,Lemon Lime Sparkling Water,22,4039,88858
+6/1/2024,Insulated Wine Tote,50,5676,283800
+8/20/2024,Kale Caesar Salad Kit,10,15309,153090
+10/29/2022,Gluten-Free Biscuits,34,18664,634576
+8/8/2024,Chic Jumpsuit,90,12295,1106550
+9/15/2024,Wireless Earbuds Case,26,3183,82758
+9/20/2022,Classic Chicken Noodle Soup,40,10491,419640
+1/27/2024,Spicy Salsa Verde,2,7255,14510
+9/22/2023,Berries Medley,97,5750,557750
+10/5/2023,Roasted Red Pepper Sauce,85,19403,1649255
+1/22/2023,Frozen Pizza,23,4657,107111
+11/2/2024,Children's Art Set,38,1965,74670
+2/25/2023,Spicy Beef Taco Mix,41,8733,358053
+5/22/2024,Sooji (Semolina),21,15544,326424
+9/9/2024,Electric Egg Cooker,78,14354,1119612
+9/19/2024,Motion Sensor Light,42,4749,199458
+8/13/2023,Cereal Dispenser with Portion Control,22,4413,97086
+3/23/2024,Magnetic Screen Door,70,9665,676550
+12/25/2022,Classic Caesar Salad Kit,83,15911,1320613
+12/10/2023,LED Desk Lamp with USB Charging,89,16452,1464228
+2/10/2024,Garden Kneeler and Seat,20,206,4120
+11/10/2023,Cereal Dispenser with Portion Control,35,8080,282800
+11/4/2023,Children's Art Set,44,8579,377476
+11/2/2022,Buffalo Wing Sauce,86,18957,1630302
+4/17/2023,Kale & Quinoa Salad Mix,67,4121,276107
+5/27/2023,Striped Long Sleeve Shirt,17,19273,327641
+10/12/2023,Beard Grooming Kit,81,6974,564894
+8/21/2023,Organic Whole Grain Oats,78,13794,1075932
+3/15/2024,Travel Size Toiletry Bottles,72,14983,1078776
+12/5/2023,Organic Coconut Flour,34,13117,445978
+9/3/2024,Chia Seed Pudding Mix,61,13812,842532
+1/24/2024,Zucchini,54,2804,151416
+10/21/2023,Cold Brew Coffee Maker,78,16580,1293240
+5/11/2023,Chili Con Carne Mix,51,12644,644844
+10/6/2023,Savory Italian Herbs,64,14516,929024
+10/6/2023,Spicy Tuna Salad,97,10304,999488
+8/17/2024,Oven-Baked Chicken Tenders,34,11542,392428
+2/13/2025,Hummus Variety Pack,48,19586,940128
+12/2/2023,Electric Ice Cream Maker,85,11423,970955
+6/5/2023,Collapsible Storage Crates,79,10584,836136
+5/6/2023,Nature Explorer Lens Kit,37,17138,634106
+5/7/2023,Casual Long Cardigan,65,13837,899405
+2/9/2024,Memory Foam Mattress Pad,93,1943,180699
+11/25/2024,Pet Hair Removal Brush,53,19589,1038217
+1/6/2023,Truffle Parmesan Fries,83,16523,1371409
+2/12/2024,Handcrafted Wooden Coasters,1,1048,1048
+11/18/2024,Savory Pumpkin Soup,62,4574,283588
+12/11/2022,Teriyaki Stir-Fry Sauce,41,131,5371
+1/14/2023,Coconut Rice,47,11551,542897
+12/7/2023,Ethical Wool Scarf,20,4992,99840
+12/16/2022,Sea Salt Caramel Popcorn,40,15315,612600
+11/8/2024,Ice Cream,27,19797,534519
+8/29/2023,Non-Toxic Concrete Sealer,63,14818,933534
+8/16/2023,Mini Pretzels,72,2380,171360
+6/23/2023,Classic White T-Shirt,37,8568,317016
+11/24/2024,Sun-Dried Tomatoes,62,1993,123566
+11/20/2022,Acoustic Guitar,18,9489,170802
+8/21/2024,Miso Soup Starter,5,9345,46725
+2/28/2024,Classic BBQ Sauce,27,18416,497232
+1/27/2023,Instant Pot,12,14810,177720
+2/12/2024,Organic Brown Rice Cakes,74,5572,412328
+11/7/2023,Buffalo Style Cauliflower Bites,10,7309,73090
+9/2/2022,Electric Heat Pad,71,7891,560261
+3/20/2025,Mediterranean Olives,41,3655,149855
+7/30/2023,Mint Chocolate Chip Ice Cream,16,8569,137104
+11/19/2023,Whole Wheat Bread,77,18064,1390928
+12/26/2024,Traditional Hummus,27,13204,356508
+7/2/2023,Basil Pesto Pasta,91,2849,259259
+3/31/2023,Almond Flour Bread Mix,5,3559,17795
+1/24/2024,Aeropress Coffee Maker,79,14753,1165487
+8/28/2024,Honey Wheat Pretzels,31,3829,118699
+9/29/2022,Rechargeable Hand Warmer,4,3243,12972
+12/13/2022,Self-Adhesive Wallpaper,4,11646,46584
+5/19/2024,Smoked Salmon,64,6322,404608
+9/11/2024,Sporty Slide Sandals,95,5553,527535
+11/14/2022,Knitted Infinity Scarf,91,6542,595322
+9/30/2024,Bluetooth Headphones,39,12875,502125
+4/27/2024,Board Game Storage,35,18226,637910
+9/12/2023,Classic White T-Shirt,34,6932,235688
+12/22/2024,Portable Solar Charger,69,11391,785979
+7/10/2024,Two-Tone Windbreaker,97,4984,483448
+11/15/2022,Hiking Boots,81,9399,761319
+8/7/2024,Jigsaw Puzzle,66,8437,556842
+12/2/2024,Marinated Artichokes,64,16495,1055680
+6/2/2024,Fishing Rod,85,6930,589050
+12/4/2023,Fruit Medley Juice,62,12075,748650
+1/31/2024,Cinnamon Sugar Mix,95,8803,836285
+4/9/2023,Fitness Tracker Band,77,9027,695079
+1/26/2025,Pet Travel Backpack Carrier,78,16705,1302990
+9/10/2023,Essential Oil Diffuser,75,17695,1327125
+11/7/2022,Fall-Themed Table Runner,80,13164,1053120
+5/11/2023,Aged White Cheddar Popcorn,52,16303,847756
+6/9/2024,Pumpkin Spice Muffins,50,6407,320350
+8/4/2023,Oven-Baked Potato Chips,40,16277,651080
+1/19/2023,Portable Solar Phone Charger,66,9603,633798
+6/27/2023,Banana Chips,95,7429,705755
+8/10/2024,Multi-Purpose Scissors,54,5640,304560
+2/5/2025,Electric Bike,2,11486,22972
+9/23/2023,Tattoo Kit,68,13264,901952
+3/5/2025,Stick Vacuums Cleaner,77,15330,1180410
+10/19/2022,Organic Black Beans,71,4876,346196

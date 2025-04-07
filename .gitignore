@@ -1,0 +1,37 @@
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Diretório temporário do sistema
+__pycache__/
+*.py[cod]
+*.so
+
+# Pasta de ambiente virtual
+venv/
+.env/
+.env
+
+# Arquivos gerados por IDEs
+.vscode/
+.idea/
+
+# Arquivos de cache do Jupyter/Streamlit
+.ipynb_checkpoints/
+.streamlit/config.toml
+
+# PDFs e imagens geradas
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Arquivos de saída
+output/
+temp/
+report.pdf
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
