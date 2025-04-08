@@ -1,4 +1,6 @@
 import pandas as pd
+from plotly.graph_objects import Figure
+import os
 
 
 
@@ -46,7 +48,6 @@ def normalize_column_names(df: pd.DataFrame):
 
     
     return df
-
 
 def validations(df: pd.DataFrame):
     """"
@@ -161,3 +162,16 @@ def get_avarage_ticket(df: pd.DataFrame):
 
     return avarage_ticket
 
+def save_chart_as_image(fig: Figure, filename: str)-> str:
+    print("iniciou a função ")
+    folder = 'images'
+    os.makedirs(folder, exist_ok=True)
+    print('Criou a pasta')
+
+    full_path = os.path.join(folder, f"{filename}.png")
+    print("criou o caminho")
+
+    fig.write_image(full_path)
+    print("salvou a imagem no caminho")
+    
+    return full_path

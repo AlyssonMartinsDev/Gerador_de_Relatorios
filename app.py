@@ -61,13 +61,13 @@ try:
 
         name, quantity, total_sales = dp.get_best_profitable_product(df)
 
-        fig = charts.create_pie_chart(pd.DataFrame({
+        fig_best_profitable = charts.create_pie_chart(pd.DataFrame({
             "Produto": [name, 'Outros'],
             "Total em vendas": [total_sales, df["Total de Vendas"].sum() - total_sales]
         }), f"Comparção do produto mais lucrativo {name}, com os demais.")
         
         
-        st.plotly_chart(fig)
+        st.plotly_chart(fig_best_profitable)
 
     with col2:
         name, quantity, total_sales = dp.get_best_selling_product(df)
@@ -170,20 +170,7 @@ try:
     st.plotly_chart(fig)
 
     
-    # if st.button("Gerar relatório em PDF"):
-
-    #     report_data = {
-    #         "metrics": {
-    #             "Total_de_pedidos": int(total_orders),
-    #             "Faturamento_total": f"R$ {total_biling:,.2f}",
-    #             "Total_de_itens_vendidos": str(total_items_sold),
-    #             "Ticket_medi": f"R$ {avg_ticket:,.2f}"
-    #         },
-    #         "images_path": {
-    #             "More_profitable_product": "teste",
-    #         }
-    #     }
-
+    
         
 
 except ValueError as e:
