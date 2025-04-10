@@ -39,7 +39,7 @@ try:
     st.subheader("Insights")
     col1, col2, col3, col4 = st.columns(4)
     with col3:
-         
+
         total_items_sold = df['Quantidade'].sum()
         
 
@@ -72,46 +72,46 @@ try:
     with col2:
         name, quantity, total_sales = dp.get_best_selling_product(df)
 
-        fig = charts.create_pie_chart(pd.DataFrame({
+        fig_best_selling_product = charts.create_pie_chart(pd.DataFrame({
             'Produto': [name, "Outros"],
             'Quantidade': [quantity, df['Quantidade'].sum() - quantity],
         }), f"Comparação do produto mais vendido {name}, como os demais.")
 
-        st.plotly_chart(fig)
+        st.plotly_chart(fig_best_selling_product)
 
     """ Insight de Crecimento diario grafico de linha """
     st.subheader('Crescimento diario das vendas.')
 
     
 
-    data_range = st.date_input("Selecionar o periodo", [])
+    data_range_ts = st.date_input("Selecionar o periodo", [])
     
     daily_sales = df.groupby("Data")["Total de Vendas"].sum()
-    if len(data_range) == 2:
-        daily_sales = dp.filter_by_date(df, data_range[0], data_range[1], "Data")
+    if len(data_range_ts) == 2:
+        daily_sales = dp.filter_by_date(df, data_range_ts[0], data_range_ts[1], "Data")
         daily_sales.groupby("Quantidade")["Total de Vendas"].sum()
     
         
 
     
-    fig = px.line(
+    fig_total_sales = px.line(
         daily_sales, 
         x=daily_sales.index, 
         y="Total de Vendas",
         title=""
     )
 
-    st.plotly_chart(fig)
+    st.plotly_chart(fig_total_sales)
     
     # ========================================================== 
     # ================  INSIGHT DE QUANTIDADE TOTAL VENDIDA POR PRODUTOS ===============
     dataFrame = df
     col1, col2, col3, col4 = st.columns(4)
     with col1:
-        data_range = st.date_input("Selecione o periodo entre datas que deseja filtrar", [])
+        data_range_dbp = st.date_input("Selecione o periodo entre datas que deseja filtrar", [])
         
-        if len(data_range) == 2:
-            dataFrame = dp.filter_by_date(dataFrame, data_range[0], data_range[1], "Data")
+        if len(data_range_dbp) == 2:
+            dataFrame = dp.filter_by_date(dataFrame, data_range_dbp[0], data_range_dbp[1], "Data")
         
     with col2:
         selected_products = st.multiselect("Filtrar por produto", df["Produto"].unique())
@@ -159,7 +159,7 @@ try:
 
     sales_distribuition_zf = sales_distribuition.reset_index()
 
-    fig = px.bar(
+    fig_sales_distribuition_by_product = px.bar(
         sales_distribuition_zf,
         x="Produto",
         y="Quantidade",
@@ -167,12 +167,93 @@ try:
         color="Quantidade",
         color_continuous_scale=px.colors.sequential.Plasma,
     )
-    st.plotly_chart(fig)
+    st.plotly_chart(fig_sales_distribuition_by_product)
+
+    col1, col2, col3, col4 = st.columns(4)
+    
+    with col1:
+        report_name = st.text_input("De um nome ao seu relatório, caso contrario seguira como 'Relatório de Vendas'.")
+
 
     
-    
+    if st.button("Gerar Relatório em PDF"):
+        
+        
+        
+        try:
+            best_profitable_fig_path = dp.save_chart_as_temp_image(fig_best_profitable)
+            total_sales_fig_path = dp.save_chart_as_temp_image(fig_total_sales)
+            best_selling_fig_path = dp.save_chart_as_temp_image(fig_best_selling_product)
+            sales_distribuition_fig_path = dp.save_chart_as_temp_image(fig_sales_distribuition_by_product)
+
+            # Salva todos os caminhos das imagens em um array para excluir depois que forem utilizadas
+            temp_files = [
+                best_profitable_fig_path,
+                total_sales_fig_path,
+                best_selling_fig_path,
+                sales_distribuition_fig_path
+            ]
+
+            total_biling = f"{total_biling:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+            avg_ticket = f"{avg_ticket:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
+
+            if len(data_range_dbp) == 0:
+                data_range_dbp = ('NÃO', 'SELECIONADO')
+            
+            if len(data_range_ts) == 0:
+                data_range_ts = ('NÃO', 'SELECIONADO')
+
+            if not report_name:
+                report_name = 'Relatório de Vendas'
+
+
+            data_report = {
+                'metrics': {
+                    'total_orders': total_orders,
+                    'total_items_sold': total_items_sold,
+                    'total_biling': total_biling,
+                    'avg_ticket': avg_ticket,
+                },
+                'graphics_path': {
+                    'best_profitable': best_profitable_fig_path,
+                    'total_sales': total_sales_fig_path,
+                    'best_selling_product': best_selling_fig_path,
+                    'sales_distribuition': sales_distribuition_fig_path
+                },
+                'filters_chart_distribuition_by_product': {
+                    'data_range_dbp': data_range_dbp,
+                    'selected_products': selected_products,
+                    'min_quantity': min_quantity,
+                    'min_price': min_price,
+                    'max_price': max_price
+                },
+                'filters_chart_total_sales': {
+                    'data_range_ts': data_range_ts
+                }
+
+            }
+
+            
+            
+            dp.generate_pdf(data_report, report_name)
+
+            st.success('Relatório gerado com sucesso')
+            
+            
+        except Exception as e:
+            st.error(f"Ocorreu um erro ao gerar o relatório: {e}")
+
+        finally:
+            # Exclui as imagens temporárias
+            for file in temp_files:
+                if file:
+                    os.remove(file)
+                    print(f"Imagem excluída: {file}")
+
         
 
 except ValueError as e:
     st.error(f"Erro ao carregar dados: {e}")
     st.stop()
+
+    
