@@ -248,7 +248,6 @@ try:
             for file in temp_files:
                 if file:
                     os.remove(file)
-                    print(f"Imagem excluída: {file}")
 
         
 

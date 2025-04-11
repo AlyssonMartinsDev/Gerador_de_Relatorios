@@ -142,7 +142,6 @@ def filter_by_date (df: pd.DataFrame, start_date, end_date, column:str):
         :return -> DataFrame filtrado
     """
 
-    print(df)
     df[column] = df[column].dt.date
     df = df[(df[column] >= start_date) & (df[column] <= end_date)]
 
@@ -162,26 +161,12 @@ def get_avarage_ticket(df: pd.DataFrame):
     avarage_ticket = total_revenue / total_orders
 
     return avarage_ticket
-
-def save_chart_as_image(fig: Figure, filename: str)-> str:
-    print("iniciou a função ")
-    folder = 'images'
-    os.makedirs(folder, exist_ok=True)
-    print('Criou a pasta')
-
-    full_path = os.path.join(folder, f"{filename}.png")
-    print("criou o caminho")
-
-    fig.write_image(full_path)
-    print("salvou a imagem no caminho")
     
-    return full_path
-    
-
 def generate_pdf(data_report: dict, report_name: str = "relatorio.pdf"):
     import pdfkit
     from platformdirs import user_documents_dir
     from pathlib import Path
+    import platform
 
 
     
@@ -275,6 +260,17 @@ def generate_pdf(data_report: dict, report_name: str = "relatorio.pdf"):
 
     """.format(**data)
 
+    system = platform.system()
+
+    if system == "Windows":
+        wkhtmltopdf_path = "C:/Program Files/wkhtmltopdf/bin/wkhtmltopdf.exe"
+    elif system == "Linux":
+        wkhtmltopdf_path = "/usr/bin/wkhtmltopdf"
+    else:
+        print("Sistema nao suportado")
+
+    config = pdfkit.configuration(wkhtmltopdf=wkhtmltopdf_path)
+
     options = {
         'encoding': 'UTF-8',
         'enable-local-file-access': None,  # Necessário para imagens locais
@@ -290,7 +286,7 @@ def generate_pdf(data_report: dict, report_name: str = "relatorio.pdf"):
 
     full_path = f"{documents_path}/{report_name}"
     
-    pdfkit.from_string(html, full_path, options)
+    pdfkit.from_string(html, full_path, options=options, configuration=config)
 
 def save_chart_as_temp_image(fig: Figure) -> str:
 
