@@ -83,6 +83,18 @@ Após ativar a venv , instale as dependências do projeto:
 ```
 pip install -r requirements.txt
 ```
+### ATENÇÃO
+#### Caso esteja usando linux instale a versão 0.2.1 do kaleido
+```
+pip install kaleido==0.2.1
+```
+
+#### Caso esteja usando o windows instale a versão 0.1.0post1
+```
+pip install kaleido==0.1.0post1
+```
+##### Caso contrario não ira funcionar!!!
+
 
 Depois de tudo instalado , você pode executar o projeto com o comando:
 

@@ -237,7 +237,7 @@ try:
             
             dp.generate_pdf(data_report, report_name)
 
-            st.success('Relatório gerado com sucesso')
+            st.success('Relatório gerado com sucesso, esta na pasata Documentos/relatorios/')
             
             
         except Exception as e:
